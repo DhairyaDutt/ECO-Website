@@ -1,0 +1,11 @@
+h2{
+    font-weight: 700;
+    font-size: 3rem;
+    color: #008000;
+}
+
+.team{
+    text-align: center;
+    font-size: 1.25rem;
+    padding: 40px 140px;
+}
